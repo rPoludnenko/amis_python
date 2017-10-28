@@ -1,4 +1,4 @@
-N = float(input('Введіть кількість студентів:'))
-K = float(input('Введіть кількість яблук:'))
-print('Кожному студенту:', K//N)
-print('В кошику:', K%N)
+N = float(input('Enter the number of students:'))
+K = float(input('Enter the number of apples:'))
+print('Each student will receive:', K//N)
+print('In the basket will remain:', K%N)
