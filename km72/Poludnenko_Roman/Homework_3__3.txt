@@ -1,2 +1,2 @@
-name = input('¬вед≥ть ваше ≥м`€')
+name = input('Enter your name:')
 print('Hello,', name,'!')
