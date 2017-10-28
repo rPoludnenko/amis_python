@@ -1,5 +1,5 @@
-x = float(input('¬вед≥ть перше число:'))
-y = float(input('¬вед≥ть друге число:'))
-z = float(input('¬вед≥ть третЇ число:'))
+x = float(input('Enter the first number:'))
+y = float(input('Enter the second number:'))
+z = float(input('–Хnter the third number:'))
 
 print(x + z + y)
