@@ -1,5 +1,0 @@
-x = float(input('Enter the first number:'))
-y = float(input('Enter the second number:'))
-z = float(input('Еnter the third number:'))
-
-print(x + z + y)
