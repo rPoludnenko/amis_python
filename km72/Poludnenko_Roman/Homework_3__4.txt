@@ -1,4 +1,0 @@
-N = float(input('Enter the number of students:'))
-K = float(input('Enter the number of apples:'))
-print('Each student will receive:', K//N)
-print('In the basket will remain:', K%N)
