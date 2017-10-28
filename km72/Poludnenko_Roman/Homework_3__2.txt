@@ -1,4 +1,0 @@
-a = float(input('Еnter the length of the catheter a (in centimeters):'))
-b = float(input('Еnter the length of the catheter b (in centimeters):'))
-
-print('Тriangle area =', (a * b)/2, 'сm^2')
